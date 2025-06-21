@@ -1,4 +1,4 @@
-# Fruit-Detector-Discord-Bot
+![image](https://github.com/user-attachments/assets/fb1882be-ad33-4ccc-9a6b-69aba4982141)# Fruit-Detector-Discord-Bot
 🤖 Bot Clasificador de Imágenes de frutas para Discord
 Este bot de Discord usa inteligencia artificial para clasificar imágenes enviadas por los usuarios. Está desarrollado en Python y emplea un modelo de red neuronal previamente entrenado con Keras.
 
@@ -23,3 +23,4 @@ TensorFlow
 PIL (Pillow)
 NumPy
 
+![image](https://github.com/user-attachments/assets/82e5f788-ddf7-4744-bab3-77baab5731bd)
